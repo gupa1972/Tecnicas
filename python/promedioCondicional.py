@@ -6,8 +6,8 @@ n3= float(input("Ingrese tercera nota: "))
 prom=(n1+n2+n3)/3
 
 if prom<=7:
-    print("promociona")
+    print("Promociona")
 elif prom<=3:
-    print("recursa")
+    print("Recursa")
 else :
     print("Va a examen final")
